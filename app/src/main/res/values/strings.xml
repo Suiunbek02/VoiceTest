@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VoiceTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="Foods">
+        <item>eat</item>
+        <item>get</item>
+        <item>past</item>
+    </string-array>
+
+</resources>
